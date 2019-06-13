@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact name="qf-spi-provider:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/qf_spi_provider_jar</output-path>
+    <root id="root">
+      <element id="archive" name="qf-spi-provider.jar">
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/../qf-spi-provider/META-INF/MANIFEST.MF" />
+          <element id="dir-copy" path="$PROJECT_DIR$/../qf-spi-provider/META-INF" />
+        </element>
+        <element id="module-output" name="qf-spi-provider" />
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="qf-spi-interface">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/qf-spi-interface.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/qf-spi-provider.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -5,6 +5,10 @@
       <module fileurl="file://$PROJECT_DIR$/java_promotion_plan.iml" filepath="$PROJECT_DIR$/java_promotion_plan.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_promotion_plan.main.iml" filepath="$PROJECT_DIR$/.idea/modules/java_promotion_plan.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/java_promotion_plan.test.iml" filepath="$PROJECT_DIR$/.idea/modules/java_promotion_plan.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qf-spi-interface/qf-spi-interface.iml" filepath="$PROJECT_DIR$/../qf-spi-interface/qf-spi-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qf-spi-provider/qf-spi-provider.iml" filepath="$PROJECT_DIR$/../qf-spi-provider/qf-spi-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aspects/spring.spring-aspects.main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aspects/spring.spring-aspects.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-aspects/spring.spring-aspects.test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-aspects/spring.spring-aspects.test.iml" />
     </modules>
   </component>
 </project>
