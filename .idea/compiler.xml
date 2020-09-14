@@ -4,6 +4,7 @@
     <option name="ajcPath" value="$USER_HOME$/soft/aspectjtools-1.9.3.jar" />
   </component>
   <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="ajc" />
     <bytecodeTargetLevel>
       <module name="java_promotion_plan.main" target="1.8" />
       <module name="java_promotion_plan.test" target="1.8" />
